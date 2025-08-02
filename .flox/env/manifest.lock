@@ -1,0 +1,124 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "zig": {
+        "pkg-path": "zig"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {}
+  },
+  "packages": [
+    {
+      "attr_path": "zig",
+      "broken": false,
+      "derivation": "/nix/store/575j78mpg65930k43d3hhc8jmvshwr4z-zig-0.14.1.drv",
+      "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software",
+      "install_id": "zig",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=94def634a20494ee057c76998843c015909d6311",
+      "name": "zig-0.14.1",
+      "pname": "zig",
+      "rev": "94def634a20494ee057c76998843c015909d6311",
+      "rev_count": 837094,
+      "rev_date": "2025-07-31T05:30:45Z",
+      "scrape_date": "2025-08-02T00:30:16.391637Z",
+      "unfree": false,
+      "version": "0.14.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/07vky7yld7z9p5h6hxs38zqg7blgmx8r-zig-0.14.1-doc",
+        "out": "/nix/store/qczsm7366g0hp3vgr4yysgwn097w0dhb-zig-0.14.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zig",
+      "broken": false,
+      "derivation": "/nix/store/mjqr3c4hzs55ibfb3q1i1l46vz0rlgfc-zig-0.14.1.drv",
+      "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software",
+      "install_id": "zig",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=94def634a20494ee057c76998843c015909d6311",
+      "name": "zig-0.14.1",
+      "pname": "zig",
+      "rev": "94def634a20494ee057c76998843c015909d6311",
+      "rev_count": 837094,
+      "rev_date": "2025-07-31T05:30:45Z",
+      "scrape_date": "2025-08-02T00:51:03.553588Z",
+      "unfree": false,
+      "version": "0.14.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/qh0xdixih3ml5mprpq069lc9d0yrndm4-zig-0.14.1-doc",
+        "out": "/nix/store/368v1ldd6sr8xbg02a7nbpr9ivk7x676-zig-0.14.1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zig",
+      "broken": false,
+      "derivation": "/nix/store/kqsls6jz7fjrdgll4w4y0z188jjq6bvw-zig-0.14.1.drv",
+      "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software",
+      "install_id": "zig",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=94def634a20494ee057c76998843c015909d6311",
+      "name": "zig-0.14.1",
+      "pname": "zig",
+      "rev": "94def634a20494ee057c76998843c015909d6311",
+      "rev_count": 837094,
+      "rev_date": "2025-07-31T05:30:45Z",
+      "scrape_date": "2025-08-02T01:10:34.418148Z",
+      "unfree": false,
+      "version": "0.14.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/85fm5ybv80pk3lyhr4bkwln3zp2sp2l1-zig-0.14.1-doc",
+        "out": "/nix/store/ybksis65ciqp8qhsvkdsb2l7zng7gqga-zig-0.14.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "zig",
+      "broken": false,
+      "derivation": "/nix/store/nsqnna6fw4rkf60bkasbfc2gyz8n042p-zig-0.14.1.drv",
+      "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software",
+      "install_id": "zig",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=94def634a20494ee057c76998843c015909d6311",
+      "name": "zig-0.14.1",
+      "pname": "zig",
+      "rev": "94def634a20494ee057c76998843c015909d6311",
+      "rev_count": 837094,
+      "rev_date": "2025-07-31T05:30:45Z",
+      "scrape_date": "2025-08-02T01:35:41.106536Z",
+      "unfree": false,
+      "version": "0.14.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/s9qf64jgq2j938zplrdnqnz4pnr1ns6f-zig-0.14.1-doc",
+        "out": "/nix/store/bp12055dys65yncly4khqban6lvaga9g-zig-0.14.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}
