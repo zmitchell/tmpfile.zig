@@ -49,12 +49,12 @@ try testing.expectEqualSlices(u8, buf[0..read_count], "hello, world!2");
 use zig packager
 
 ```bash
-zig fetch --save https://github.com/liyu1981/tmpfile.zig/archive/refs/heads/master.tar.gz
+zig fetch --save https://github.com/zmitchell/tmpfile.zig/archive/refs/heads/master.tar.gz
 ```
 
 (or lock on any commit as)
 ```bash
-zig fetch --save zig fetch https://github.com/liyu1981/zcmd.zig/archive/<commit hash>.tar.gz
+zig fetch --save zig fetch https://github.com/zmitchell/tmpfile.zig/archive/<commit hash>.tar.gz
 ```
 
 this lib is also provided for `build.zig`, use like
