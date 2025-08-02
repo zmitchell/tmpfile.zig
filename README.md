@@ -49,7 +49,7 @@ try testing.expectEqualSlices(u8, buf[0..read_count], "hello, world!2");
 use zig packager
 
 ```bash
-zig fetch --save https://github.com/liyu1981/tmpfile.zig/archive/refs/heads/main.tar.gz
+zig fetch --save https://github.com/liyu1981/tmpfile.zig/archive/refs/heads/master.tar.gz
 ```
 
 (or lock on any commit as)
