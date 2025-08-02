@@ -54,7 +54,7 @@ zig fetch --save https://github.com/zmitchell/tmpfile.zig/archive/refs/heads/mas
 
 (or lock on any commit as)
 ```bash
-zig fetch --save zig fetch https://github.com/zmitchell/tmpfile.zig/archive/<commit hash>.tar.gz
+zig fetch --save https://github.com/zmitchell/tmpfile.zig/archive/<commit hash>.tar.gz
 ```
 
 this lib is also provided for `build.zig`, use like
